@@ -108,7 +108,7 @@ c1, c2 = st.columns(2)
 with c1:
     st.link_button(
         "🐙 GitHub Profile",
-        "https://www.linkedin.com/in/aditya-rawat2410/"
+        "https://github.com/adityaaa24"
     )
 
 with c2:
