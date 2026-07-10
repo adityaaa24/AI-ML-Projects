@@ -114,7 +114,7 @@ with c1:
 with c2:
     st.link_button(
         "💼 LinkedIn Profile",
-        "www.linkedin.com/in/aditya-rawat2410"
+        "https://www.linkedin.com/in/aditya-rawat2410 "
     )
 
 st.markdown("---")
