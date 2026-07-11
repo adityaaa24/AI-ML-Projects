@@ -252,7 +252,7 @@ st.divider()
 st.header("👨‍💻 About Developer")
 
 st.markdown("""
-### **Abhay Kumar Gupta**
+### **ADITYA RAWAT**
 
 🎓 B.Tech Computer Science & Engineering Student
 
@@ -264,11 +264,11 @@ st.markdown("""
 
 🐙 **GitHub**
 
-https://github.com/Abhay-cody
+https://github.com/adityaaa24
 
 💼 **LinkedIn**
 
-https://www.linkedin.com/in/abhay-kumar-gupta-104a18397
+https://www.linkedin.com/in/aditya-rawat2410/
 """)
 
 st.divider()
@@ -277,7 +277,7 @@ st.markdown(
     """
 <div style='text-align:center'>
 <h4>Made with ❤️ using Streamlit</h4>
-<p>© 2026 Abhay Kumar Gupta</p>
+<p>© 2026 ADITYA RAWAT</p>
 </div>
 """,
     unsafe_allow_html=True
