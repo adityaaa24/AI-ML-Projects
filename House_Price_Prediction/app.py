@@ -91,15 +91,15 @@ st.markdown("---")
 st.markdown("""
 <div style='text-align:center;'>
 
-### 🚀 Developed by <span style="color:#4CAF50;">ABHAY KUMAR GUPTA</span>
+### 🚀 Developed by <span style="color:#4CAF50;">ADITYA RAWAT</span>
 
-<a href="https://github.com/Abhay-cody" target="_blank">
+<a href="https://github.com/adityaaa24" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 &nbsp;
 
-<a href="https://www.linkedin.com/in/abhay-kumar-gupta-104a18397" target="_blank">
+<a href="https://www.linkedin.com/in/aditya-rawat2410/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
