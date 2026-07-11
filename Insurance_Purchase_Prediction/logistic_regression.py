@@ -144,7 +144,7 @@ st.markdown("""
 <div class="profile-card">
 
 <div class="profile-name">
-👨‍💻 Abhay Kumar Gupta
+👨‍💻 ADITYA RAWAT
 </div>
 
 <div class="profile-role">
@@ -152,13 +152,13 @@ Machine Learning Engineer | Deep Learning Enthusiast | Python Developer
 </div>
 
 <a class="social-btn github"
-href="https://github.com/Abhay-cody"
+href="https://github.com/adityaaa24"
 target="_blank">
 🐙 View GitHub Profile
 </a>
 
 <a class="social-btn linkedin"
-href="https://www.linkedin.com/in/abhay-kumar-gupta-104a18397"
+href="https://www.linkedin.com/in/aditya-rawat2410/"
 target="_blank">
 💼 Connect on LinkedIn
 </a>
