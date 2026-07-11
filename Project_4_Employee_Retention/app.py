@@ -322,9 +322,9 @@ st.markdown("""
 
 **ADITYA RAWAT**
 
-🔗 <a href="https://www.linkedin.com/in/aditya-rawat2410/" target="_blank">GitHub</a>
+🔗 <a href="https://github.com/adityaaa24">GitHub</a>
 
-🔗 <a href="https://www.linkedin.com/in/aditya-rawat2410/" target="_blank">LinkedIn</a>
+🔗 <a href="https://www.linkedin.com/in/aditya-rawat2410/">LinkedIn</a>
 
 </div>
 """, unsafe_allow_html=True)
