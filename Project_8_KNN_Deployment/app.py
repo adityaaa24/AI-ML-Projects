@@ -136,11 +136,11 @@ st.write("""
 
 st.divider()
 
-st.markdown("### 👨‍💻 Developed by Abhay Kumar Gupta")
+st.markdown("### 👨‍💻 Developed by ADITYA RAWAT ")
 
 st.markdown(
 """
-- 🔗 **GitHub:** https://github.com/Abhay-cody
-- 💼 **LinkedIn:** https://www.linkedin.com/in/abhay-kumar-gupta-104a18397
+- 🔗 **GitHub:** https://github.com/adityaaa24
+- 💼 **LinkedIn:** https://www.linkedin.com/in/aditya-rawat2410/
 """
 )
