@@ -26,7 +26,7 @@ st.set_page_config(
 
 st.sidebar.title("👨‍💻 Developer")
 
-st.sidebar.success("Abhay Kumar Gupta")
+st.sidebar.success("ADITYA RAWAT ")
 
 st.sidebar.markdown("---")
 
@@ -36,7 +36,7 @@ st.sidebar.markdown(
     """
 📂 **GitHub Repository**
 
-https://github.com/Abhay-cody/AI_ML_PROJECTS/tree/main/Project_10_RAG_Chatbots_for_Health_Insurance
+https://github.com/adityaaa24/AI-ML-Projects/tree/main/Project_10_RAG_Chatbots_for_Health_Insurance
 """
 )
 
@@ -44,7 +44,7 @@ st.sidebar.markdown(
     """
 💼 **LinkedIn Profile**
 
-https://www.linkedin.com/in/abhay-kumar-gupta-104a18397
+https://www.linkedin.com/in/aditya-rawat2410/
 """
 )
 
@@ -53,21 +53,21 @@ st.sidebar.markdown("---")
 try:
     st.sidebar.link_button(
         "📂 Open GitHub Repository",
-        "https://github.com/Abhay-cody/AI_ML_PROJECTS/tree/main/Project_10_RAG_Chatbots_for_Health_Insurance",
+        "https://github.com/adityaaa24/AI-ML-Projects/tree/main/Project_10_RAG_Chatbots_for_Health_Insurance",
     )
 
     st.sidebar.link_button(
         "💼 Visit LinkedIn",
-        "https://www.linkedin.com/in/abhay-kumar-gupta-104a18397",
+        "https://www.linkedin.com/in/aditya-rawat2410/",
     )
 
 except Exception:
     st.sidebar.markdown(
-        "[📂 Open GitHub Repository](https://github.com/Abhay-cody/AI_ML_PROJECTS/tree/main/Project_10_RAG_Chatbots_for_Health_Insurance)"
+        "[📂 Open GitHub Repository](https://github.com/adityaaa24/AI-ML-Projects/tree/main/Project_10_RAG_Chatbots_for_Health_Insurance)"
     )
 
     st.sidebar.markdown(
-        "[💼 Visit LinkedIn](https://www.linkedin.com/in/abhay-kumar-gupta-104a18397)"
+        "[💼 Visit LinkedIn](https://www.linkedin.com/in/aditya-rawat2410/)"
     )
 
 st.sidebar.markdown("---")
@@ -244,5 +244,5 @@ Question:
 st.markdown("---")
 
 st.caption(
-    "Developed by Abhay Kumar Gupta | Health Insurance RAG Chatbot"
+    "Developed by ADITYA RAWAT | Health Insurance RAG Chatbot"
 )
