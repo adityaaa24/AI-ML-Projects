@@ -16,7 +16,9 @@ https://ai-ml-projects-2vs3t4wfrtgesjmtyebaj9.streamlit.app
 Project_7(Iris Flower Species Prediction Using KNN) URL :-
 https://ai-ml-projects-bxzu7cmftraennzxzx6qck.streamlit.app
 
-Project_8(Covid_19_from_Chest_X_Ray) Website URL:--
+Project_8(KNN DEPLOYMENT) Website URL:--
+https://ai-ml-projects-bxzu7cmftraennzxzx6qck.streamlit.app
+
 
 Project_10(Chatbot for Health Insurance) URL:-
 https://ai-ml-projects-qoaehgjbipsqg77yj8vvnf.streamlit.app
@@ -29,3 +31,6 @@ https://ai-ml-projects-2xf3u8zkfch8lnrfwdopqf.streamlit.app
 
 RAG_Chatbots_for_Technical_Documentation_Samsung_Washing_Machine_Manual Website URL :--
 https://ai-ml-projects-7sr7tjuwkrae6f9vhahcjw.streamlit.app
+
+NETFLIX MOVIE REVIEW ANALYSER
+https://netflixappanalyser-m9vznlyywzyzd7h5ctybxj.streamlit.app
